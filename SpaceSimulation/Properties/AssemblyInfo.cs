@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ProceduralGeneration")]
+[assembly: AssemblyTitle("SpaceSimulation")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ProceduralGeneration")]
+[assembly: AssemblyProduct("SpaceSimulation")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9baa0660-9cdd-4029-afc6-14b2b822c24c")]
+[assembly: Guid("e7d95f69-69e1-4914-ad1f-238d357dfc1d")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -1,0 +1,6 @@
+c:\users\jean.klann.sistemafiesc\documents\visual studio 2015\Projects\SpaceSimulation\SpaceSimulation\bin\Debug\SpaceSimulation.exe.config
+c:\users\jean.klann.sistemafiesc\documents\visual studio 2015\Projects\SpaceSimulation\SpaceSimulation\bin\Debug\SpaceSimulation.exe
+c:\users\jean.klann.sistemafiesc\documents\visual studio 2015\Projects\SpaceSimulation\SpaceSimulation\bin\Debug\SpaceSimulation.pdb
+c:\users\jean.klann.sistemafiesc\documents\visual studio 2015\Projects\SpaceSimulation\SpaceSimulation\obj\Debug\SpaceSimulation.csprojResolveAssemblyReference.cache
+c:\users\jean.klann.sistemafiesc\documents\visual studio 2015\Projects\SpaceSimulation\SpaceSimulation\obj\Debug\SpaceSimulation.exe
+c:\users\jean.klann.sistemafiesc\documents\visual studio 2015\Projects\SpaceSimulation\SpaceSimulation\obj\Debug\SpaceSimulation.pdb

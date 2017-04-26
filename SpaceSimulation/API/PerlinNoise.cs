@@ -28,7 +28,7 @@
 
 using System;
 
-namespace ProceduralGeneration {
+namespace SpaceSimulation {
     public class PerlinNoise {
         private const int GradientSizeTable = 256;
         private readonly Random _random;
